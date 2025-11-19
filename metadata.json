@@ -1,0 +1,5 @@
+{
+  "name": "BW Converter Widget",
+  "description": "Простой и быстрый виджет для преобразования фотографий в черно-белый формат.",
+  "requestFramePermissions": []
+}
